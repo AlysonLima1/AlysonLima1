@@ -36,12 +36,11 @@ I am passionate about technology, programming, and always looking to learn somet
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alyson-lima-a556522a0/)
 <br>
-[![GitHub followers](https://img.shields.io/github/followers/AlysonLima1?style=social)](https://github.com/AlysonLima1)
-<br>
 <a href="mailto:alysonrafael2005@gmail.com">
   <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white" alt="Email" />
 </a>
-
+<br>
+[![GitHub followers](https://img.shields.io/github/followers/AlysonLima1?style=social)](https://github.com/AlysonLima1)
 
 ---
 
