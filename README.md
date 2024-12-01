@@ -19,10 +19,10 @@ I am passionate about technology, programming, and always looking to learn somet
 
 ## 🌱 A Little About Me
 
-- 🌎 Where I am from: [Recife/Brazil]  
-- 💻 Favorite languages: Python and JavaScript  
-- 🌟 Interests: Web Development, Data Science, and AI.  
-- 🎯 Currently learning: [Java]  
+- 🌎 I am from Recife/Brazil
+- 💻 My Favorite languages for now are Python and JavaScript 
+- 🌟 By this time my interests are Web Development, Data Science, and AI 
+- 🎯 Currently learning Java  
 
 ---
 
@@ -35,7 +35,11 @@ I am passionate about technology, programming, and always looking to learn somet
 ## ✨ Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alyson-lima-a556522a0/)  
-[![GitHub followers](https://img.shields.io/github/followers/AlysonLima1?style=social)](https://github.com/AlysonLima1)  
+[![GitHub followers](https://img.shields.io/github/followers/AlysonLima1?style=social)](https://github.com/AlysonLima1)
+<a href="mailto:alysonrafael2005@gmail.com">
+  <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
 
 ---
 
