@@ -8,6 +8,11 @@ I am passionate about technology, programming, and always looking to learn somet
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlysonLima1&show_icons=true&theme=radical)  
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlysonLima1&layout=compact&theme=radical)
+
+---
+
+## 🔥 My Streak
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlysonLima1&theme=radical)
 
 ---
