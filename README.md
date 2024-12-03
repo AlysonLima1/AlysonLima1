@@ -6,8 +6,8 @@ My name is Alyson Lima, I am 19 and I am passionate about technology, programmin
 
 ## 🔥 My GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlysonLima1&show_icons=true&theme=github)  
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlysonLima1&layout=compact&theme=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlysonLima1&show_icons=true&theme=react)  
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlysonLima1&layout=compact&theme=react)
 
 ---
 
