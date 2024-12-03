@@ -28,7 +28,7 @@ My name is Alyson Lima, I am 19 and I am passionate about technology, programmin
 
 ## 📈 Recent Activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlysonLima1&theme=radical)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlysonLima1&theme=tokyo)
 
 ---
 
