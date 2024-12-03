@@ -13,7 +13,7 @@ My name is Alyson Lima, I am 19 and I am passionate about technology, programmin
 
 ## 🔥 My Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlysonLima1&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlysonLima1&theme=react)
 
 ---
 
